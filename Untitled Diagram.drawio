@@ -1,84 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T16:41:26.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NKZHjmf0uLLDbW1KYqsh" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T17:05:16.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="s1r1QbjmuBTcy3lASIDt" version="21.3.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KBNsd-catB0haCi5iXZL-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="333" y="120" width="40" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-7">
-          <mxGeometry x="15" y="144" width="10" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="KBNsd-catB0haCi5iXZL-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="460" y="120" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-8">
+          <mxGeometry x="15" y="138" width="10" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KBNsd-catB0haCi5iXZL-9" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
           <mxGeometry x="193" y="120" width="50" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-9">
-          <mxGeometry x="20" y="114" width="10" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="KBNsd-catB0haCi5iXZL-10" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="545" y="120" width="50" height="300" as="geometry" />
+          <mxGeometry x="330" y="120" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-10">
+          <mxGeometry x="21" y="138" width="10" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-10">
+          <mxGeometry x="20" y="199" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KBNsd-catB0haCi5iXZL-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="20" height="300" as="geometry" />
+          <mxGeometry x="50" y="125" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-11">
-          <mxGeometry x="5" y="114" width="10" height="150" as="geometry" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBNsd-catB0haCi5iXZL-11">
+          <mxGeometry x="5" y="194" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-15" value="Memilih Melihat Notifikasi ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KBNsd-catB0haCi5iXZL-15" value="Menampilkan ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KBNsd-catB0haCi5iXZL-32">
           <mxGeometry x="-0.085" y="20" width="160" relative="1" as="geometry">
             <mxPoint x="60" y="234" as="sourcePoint" />
             <mxPoint x="213" y="234" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-16" value="Lihat Notifikasi&amp;nbsp;()&amp;nbsp;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0183" y="21" width="160" relative="1" as="geometry">
-            <mxPoint x="213" y="265" as="sourcePoint" />
-            <mxPoint x="352.5" y="265" as="targetPoint" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-16" value="Get Level ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1597" y="-11" width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="258" as="sourcePoint" />
+            <mxPoint x="361" y="258" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-20" value="Get Notifikasi" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0435" y="14" width="160" relative="1" as="geometry">
-            <mxPoint x="355" y="304" as="sourcePoint" />
-            <mxPoint x="470" y="304" as="targetPoint" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-20" value="Menampilkan Level ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1506" y="-11" width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="275" as="sourcePoint" />
+            <mxPoint x="228" y="275" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KBNsd-catB0haCi5iXZL-21" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="305" width="20" height="20" as="geometry" />
+          <mxGeometry x="208" y="369" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-22" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="354" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-23" value="Tampilan Notifikasi ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KBNsd-catB0haCi5iXZL-23" value="Set Level&amp;nbsp; ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0889" y="10" width="160" relative="1" as="geometry">
-            <mxPoint x="358" y="354.5" as="sourcePoint" />
-            <mxPoint x="560" y="354" as="targetPoint" />
+            <mxPoint x="359" y="352.5" as="sourcePoint" />
+            <mxPoint x="476" y="352.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-25" value="User PIC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="160" width="70" height="30" as="geometry" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-25" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-26" value="Menu&amp;nbsp; Utama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KBNsd-catB0haCi5iXZL-26" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="168" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-27" value="Proses &lt;br&gt;Menampilkan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="308" y="155" width="90" height="40" as="geometry" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-28" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="165" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-28" value="Suhu dan &lt;br&gt;Kelembaban" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="155" width="90" height="40" as="geometry" />
+        <mxCell id="KBNsd-catB0haCi5iXZL-29" value="Pemberian Hak&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Akses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-29" value="Menu Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="155" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KBNsd-catB0haCi5iXZL-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;sd.4 View Notifikasi&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=120;height=20;" vertex="1" parent="1">
+        <mxCell id="KBNsd-catB0haCi5iXZL-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;sd.5 Pemberian Hak Akses&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=20;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-31" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="208" y="274" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-32" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="208" y="233" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="475" y="352" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-40" value="Melakukan Perubahan ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="68" y="320" as="sourcePoint" />
+            <mxPoint x="347" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNsd-catB0haCi5iXZL-42" value="Menampilkan Level ()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.075" y="-10" width="160" relative="1" as="geometry">
+            <mxPoint x="471" y="380" as="sourcePoint" />
+            <mxPoint x="231" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
